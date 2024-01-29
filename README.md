@@ -1,2 +1,2 @@
 # eCommerce
-E-Commerce app with React Native, Django Rest Framework
+E-Commerce app with React Native, Django Rest Framework (new release)
